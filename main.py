@@ -9,7 +9,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationChain
 import pytesseract
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 # Read the video from specified path
 cam = cv2.VideoCapture("https://workahub.s3.amazonaws.com/goappdata/f784b749-a790-4c57-982e-4989c6926079/1708686576/X7tLFJ84qY/1708686576.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVMVHX4KRP64G6B6Y%2F20240223%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240223T123559Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=95b9d25c63b5bd8117c92bd02eeffe4ce678dbab06fe4876c7fcc92df3a2a602")
 
