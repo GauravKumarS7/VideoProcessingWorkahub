@@ -60,7 +60,8 @@ convLlmChain = ConversationChain(
     llm=convLLM, memory=mem)
 # print(convLlmChain.run(
 #     "from the conversation above analyze and provide a approximate percentage of repeatitions, keeping in check that this data is from user screenshots, also the data is 100% accurate. Don't include anything except percentage"))
-print(convLlmChain.run("From the above conversations which denotes text from user screen recording in last 10 minutes duration and having keyboard clicks: 202, mouse clicks: 54, and cpu usage of 2% of 2.5GHz 12 cores cpu for the 10 minutes duration, just tell roughly whether user has worked or not?"))
+# print(convLlmChain.run("From the above conversations which denotes text from user screen recording in last 10 minutes duration and having keyboard clicks: 202, mouse clicks: 54, and cpu usage of 2% of 2.5GHz 12 cores cpu for the 10 minutes duration, just tell roughly whether user has worked or not?"))
+print(convLlmChain.run("From the above prompts which are the screenshots text data of user, how will you divide the prompts data into the segments to understand what work has been done by the user"))
 # Release all space and windows once done
 cam.release()
 cv2.destroyAllWindows()
