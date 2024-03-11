@@ -1,0 +1,90 @@
+{
+    "frame_0": "a acai Sala a\ncv2. imread(\". /data/frame1. jpg\u201d)\n\nmga\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\", gray1)\ncv2.imshow(\u201ccolor\u201d, imgi)\n10 ev2.waitKey(@)\n\n11 ev2.destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS \u00abGITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python]\n",
+    "frame_1": "a acai Sala a\ncv2. imread(\". /data/frame1. jpg\u201d)\n\nmga\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\", gray1)\ncv2.imshow(\u201ccolor\u201d, imgi)\n10 ev2.waitKey(@)\n\n11 ev2.destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS \u00abGITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python]\n",
+    "frame_2": "Be SSE es BR ene ange inane ee eel\n\nimg2 = cv2.imread(\". /data/frame1. jpg\u201d)\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\u201d, gray1)\ncv2.imshow(\u201ccolor\u201d, imgi)\n10 ev2.waitKey(@)\n\n11 ev2.destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS-GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venvv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> pythoni]\n",
+    "frame_3": "Oe oe mien ie ama ee\n\nimg2 = cv2.imread(\". /data/frame1. jpg\u201d)\n\n4\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\nano\n\ncv2.imshow(\u201cblack\", gray1)\n9 cv2.imshow(\u201ccolor\u201d, img)\n10 cv2.waitKey(@)\n\n11 ev2.destroyAllWindows()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS -\u2014GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works\\VideoProcessingWorkahub> python jf\n",
+    "frame_4": "Oe oe mien ie ama ee\n\nimg2 = cv2.imread(\". /data/frame1. jpg\u201d)\n\n4\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\nano\n\ncv2.imshow(\u201cblack\", gray1)\n9 cv2.imshow(\u201ccolor\u201d, img)\n10 cv2.waitKey(@)\n\n11 ev2.destroyAllWindows()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS -\u2014GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python subtacting.\n\n",
+    "frame_5": "Seager aa me ee cd en ae ee\n\nimg2 = cv2.imread(\". /data/frame1. jpg\u201d)\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\", gray1)\ncv2.imshow(\u201ccolor\u201d, imgi)\ncv2.waitKey(@)\n\ncv2. destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS-GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python subtactimg.py\n\n>: \\Users \\gaura \\AppDat.a \\Locall\\Programs \\Python\\Python31@\\python.exe: can't open file *C:\\\\Codes\\\\S7Works\\\\VideoProcessingWorkahub\\\\subtactimg.py\": [Errno 2] No such file or directory\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> If\n",
+    "frame_6": "Oe oe mien ie ama ee\nv2. imread(\". /data/frame1. jpg\u201d)\n\nmga\n\n4\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\", gray1)\n9 cv2.imshow(\u201ccolor\u201d, img)\n10 cv2.waitKey(@)\ncv2.destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS -\u2014GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python subtactimg. py\n>: \\Users \\gaura \\AppDatta \\Locall\\Programs \\Python\\Python31@\\python.exe: can't open file *C:\\\\Codes\\\\s\u2122orks\\\\VideoProcessingWorkahub\\\\subtactimg.py\u2019: [Errno 2] No such file or directory\n\n(.venv) PS C:\\Codes\\S7Works\\VideoProcessingWorkahub> If\n",
+    "frame_7": "Oe oe mien ie ama ee\nv2. imread(\". /data/frame1. jpg\u201d)\n\nmga\n\n4\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\", gray1)\n9 cv2.imshow(\u201ccolor\u201d, img)\n10 cv2.waitKey(@)\ncv2.destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS -\u2014GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python subtactimg. py\n>: \\Users \\gaura \\AppDatta \\Locall\\Programs \\Python\\Python31@\\python.exe: can't open file *C:\\\\Codes\\\\s\u2122orks\\\\VideoProcessingWorkahub\\\\subtactimg.py\u2019: [Errno 2] No such file or directory\n(.venv) PS C:\\Codes\\S7Works\\VideoProcessingWorkahub> python .Bubtactimg. py\n\n",
+    "frame_8": "Oe oe mien ie ama ee\nv2. imread(\". /data/frame1. jpg\u201d)\n\nmga\n\n4\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\", gray1)\n9 cv2.imshow(\u201ccolor\u201d, img)\n10 cv2.waitKey(@)\ncv2.destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS -\u2014GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python subtactimg. py\n>: \\Users \\gaura \\AppDatta \\Locall\\Programs \\Python\\Python310\\python.exe: can't open file *C:\\\\Codes\\\\s\u2122Works\\\\VideoProcessingWorkahub\\\\subtactimg.py\u2019: [Errno 2] No such file or directory\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python .\\subtacting. py\n\nA a ICN? WOR oP ORES RE SG, ea ew oe\n",
+    "frame_9": "Oe oe mien ie ama ee\nv2. imread(\". /data/frame1. jpg\u201d)\n\nmga\n\n4\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\", gray1)\n9 cv2.imshow(\u201ccolor\u201d, img)\n10 cv2.waitKey(@)\ncv2.destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS -\u2014GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python subtactimg. py\n>: \\Users \\gaura \\AppDatta \\Locall\\Programs \\Python\\Python310\\python.exe: can't open file *C:\\\\Codes\\\\s\u2122Works\\\\VideoProcessingWorkahub\\\\subtactimg.py\u2019: [Errno 2] No such file or directory\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python .\\subtacting. py\n\nA a ICN? WOR oP ORES RE SG, ea ew oe\n",
+    "frame_10": "Oe oe mien ie ama ee\nv2. imread(\". /data/frame1. jpg\u201d)\n\nmga\n\n4\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\", gray1)\n9 cv2.imshow(\u201ccolor\u201d, img)\n10 cv2.waitKey(@)\ncv2.destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS -\u2014GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python subtactimg. py\n>: \\Users \\gaura \\AppDatta \\Locall\\Programs \\Python\\Python310\\python.exe: can't open file *C:\\\\Codes\\\\s\u2122Works\\\\VideoProcessingWorkahub\\\\subtactimg.py\u2019: [Errno 2] No such file or directory\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python .\\subtacting. py\n\nha A PEN SR nn PRCA a RP ae NS NEE chink PET oe OE PEL Pe eer ee ee ee eae er en en eee\n",
+    "frame_11": "Oe oe mien ie ama ee\nv2. imread(\". /data/frame1. jpg\u201d)\n\nmga\n\n4\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\", gray1)\n9 cv2.imshow(\u201ccolor\u201d, img)\n10 cv2.waitKey(@)\ncv2.destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS -\u2014GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python subtactimg. py\n>: \\Users \\gaura \\AppDatta \\Locall\\Programs \\Python\\Python310\\python.exe: can't open file *C:\\\\Codes\\\\s\u2122Works\\\\VideoProcessingWorkahub\\\\subtactimg.py\u2019: [Errno 2] No such file or directory\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python .\\subtacting. py\n\nA a ICN? SPOR WOR oP ORES CRE SG, ea ew oe\n",
+    "frame_12": "Oe oe mien ie ama ee\nv2. imread(\". /data/frame1. jpg\u201d)\n\nmga\n\n4\n\ngray = cv2.cvtColor(imgi, cv2.COLOR_BGR2GRAY)\ngray2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)\n\ncv2.imshow(\u201cblack\", gray1)\n9 cv2.imshow(\u201ccolor\u201d, img)\n10 cv2.waitKey(@)\ncv2.destroyAllWindows ()\n\nPROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS -\u2014GITLENS.-- COMMENTS\n\n\u00b0S C:\\Codes\\S7Works\\VideoProcessingworkahub> .\\.venv\\Scripts\\activate\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python subtactimg. py\n>: \\Users \\gaura \\AppDatta \\Locall\\Programs \\Python\\Python310\\python.exe: can't open file *C:\\\\Codes\\\\s\u2122Works\\\\VideoProcessingWorkahub\\\\subtactimg.py\u2019: [Errno 2] No such file or directory\n(.venv) PS C:\\Codes\\S7Works \\VideoProcessingWorkahub> python .\\subtacting. py\n\nA a ICNP WO oP ORES RCA AE SG, eae oe\n",
+    "mouse_clicks": 124,
+    "keyboard_clicks": 302,
+    "cpu_utilization": "2%",
+    "cpu": "2.5 GHz 12 cores cpu",
+    "duration": "10 minutes",
+    "applications_used": ["vscode", "brave browser", "workahub"],
+    "browser_tabs": [
+        {
+            "title": "S7-Works/Workahub_web_backend",
+            "url": "https://github.com/S7-Works/Workahub_web_backend"
+        },
+        { "url": "http://localhost:3000/projects", "title": "Workahub" },
+        {
+            "url": "https://teams.microsoft.com/v2/",
+            "title": "Chat | Saumya Garg | Microsoft Teams"
+        },
+        {
+            "url": "https://github.com/S7-Works/Workahub_web_backend/blob/master/manage.p",
+            "title": "Workahub_web_backend/manage.py at master \u00b7 S7-Works/Workahub_web_backend"
+        }
+    ],
+    "similarity_matrix_of_frames_with_each_other_in_whole_time": [
+        [
+            1.0, 1.0, 0.99904, 0.99853, 0.99755, 0.97752, 0.97751, 0.97582, 0.97034, 0.97034,
+            0.97034, 0.97034, 0.97034
+        ],
+        [
+            1.0, 1.0, 0.99904, 0.99853, 0.99755, 0.97752, 0.97751, 0.97582, 0.97034, 0.97034,
+            0.97034, 0.97034, 0.97034
+        ],
+        [
+            0.99904, 0.99904, 1.0, 0.9989, 0.99792, 0.97801, 0.97787, 0.97619, 0.9707, 0.9707,
+            0.9707, 0.9707, 0.9707
+        ],
+        [
+            0.99853, 0.99853, 0.9989, 1.0, 0.99869, 0.97832, 0.97862, 0.97693, 0.97145, 0.97145,
+            0.97145, 0.97145, 0.97145
+        ],
+        [
+            0.99755, 0.99755, 0.99792, 0.99869, 1.0, 0.97931, 0.97961, 0.97793, 0.97245, 0.97245,
+            0.97245, 0.97245, 0.97245
+        ],
+        [
+            0.97752, 0.97752, 0.97801, 0.97832, 0.97931, 1.0, 0.99963, 0.99765, 0.99218, 0.99218,
+            0.99218, 0.99218, 0.99218
+        ],
+        [
+            0.97751, 0.97751, 0.97787, 0.97862, 0.97961, 0.99963, 1.0, 0.99801, 0.99253, 0.99253,
+            0.99253, 0.99253, 0.99253
+        ],
+        [
+            0.97582, 0.97582, 0.97619, 0.97693, 0.97793, 0.99765, 0.99801, 1.0, 0.99341, 0.99341,
+            0.99341, 0.99341, 0.99341
+        ],
+        [
+            0.97034, 0.97034, 0.9707, 0.97145, 0.97245, 0.99218, 0.99253, 0.99341, 1.0, 1.0, 1.0,
+            1.0, 1.0
+        ],
+        [
+            0.97034, 0.97034, 0.9707, 0.97145, 0.97245, 0.99218, 0.99253, 0.99341, 1.0, 1.0, 1.0,
+            1.0, 1.0
+        ],
+        [
+            0.97034, 0.97034, 0.9707, 0.97145, 0.97245, 0.99218, 0.99253, 0.99341, 1.0, 1.0, 1.0,
+            1.0, 1.0
+        ],
+        [
+            0.97034, 0.97034, 0.9707, 0.97145, 0.97245, 0.99218, 0.99253, 0.99341, 1.0, 1.0, 1.0,
+            1.0, 1.0
+        ],
+        [
+            0.97034, 0.97034, 0.9707, 0.97145, 0.97245, 0.99218, 0.99253, 0.99341, 1.0, 1.0, 1.0,
+            1.0, 1.0
+        ]
+    ]
+}
